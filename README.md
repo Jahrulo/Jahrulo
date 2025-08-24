@@ -22,16 +22,4 @@ I collaborate with **startups, NGOs, and organizations** to:
 ✅ Develop mobile & web apps that deliver real value.  
 ✅ Modernize manual processes into **digital platforms**.  
 
-💡 If you need a developer who can **turn complex ideas into practical solutions**, let’s talk.  
-
----
-
-## 📫 Let’s Connect 
-- 💼 LinkedIn: [https://www.linkedin.com/in/mariama-seray-jalloh-b57529261/)  
-- 📧 Email: jahruloseray@gmail.com  
-
----
-
-## ⚡ A Note
-> Good software is more than code — it’s about creating systems that **transform the way people work and live.**
 
