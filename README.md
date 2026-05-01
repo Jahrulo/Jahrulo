@@ -6,13 +6,6 @@ I build **real-world software solutions** that go beyond "just CRUD apps."
 From **backend systems**, **frontend web apps** and **mobile apps** to **digital transformation platforms**,  
 I focus on writing clean, scalable, and impactful code that solves real business problems.  
 
----
-
-## 🔭 Featured Projects
-- 🌍 **REV-MIS (Revenue Management Information System)** → Digitizing local government revenue collection in Sierra Leone (POS, web portal, mobile app).
-- 🌍 **PHARMBUL** → Electronic Drugs Wholesale Distributions, Retail Sales and Inventory Management System for healthcare facilities in Sierra Leone (POS, web portal ).
-- 💉 **LifeBlood** → A digital platform for blood donation management and community impact(web portal).
-- 📱 **Cross-Platform Apps** → React Native apps with smooth UX and robust backend integrations.  
 
 ---
 
